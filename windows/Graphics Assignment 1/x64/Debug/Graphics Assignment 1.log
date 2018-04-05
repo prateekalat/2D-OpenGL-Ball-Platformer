@@ -1,0 +1,27 @@
+﻿  water.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  trampoline.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  timer.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\timer.cpp(2): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  spike.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  other_handlers.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\other_handlers.cpp(6): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  nonedit.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\nonedit.cpp(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  magnet.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  input.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\input.cpp(6): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  floor.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  enemy.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  color.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ball.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.h(9): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...

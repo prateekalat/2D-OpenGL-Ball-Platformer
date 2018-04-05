@@ -1,0 +1,25 @@
+﻿  water.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\water.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  trampoline.cpp
+  timer.cpp
+  spike.cpp
+  other_handlers.cpp
+  nonedit.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\nonedit.cpp(207): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  main.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.cpp(290): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\main.cpp(326): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  magnet.cpp
+  input.cpp
+  floor.cpp
+  enemy.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\enemy.cpp(72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\enemy.cpp(72): warning C4305: 'initializing': truncation from 'double' to 'float'
+  color.cpp
+  ball.cpp
+c:\users\prateek\desktop\graphics assignment 1\windows\graphics assignment 1\ball.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Prateek\Desktop\Graphics Assignment 1\windows\Debug\vc120.pdb'; linking object as if no debug info
+  Graphics Assignment 1.vcxproj -> C:\Users\Prateek\Desktop\Graphics Assignment 1\windows\Debug\Graphics Assignment 1.exe
